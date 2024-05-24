@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box
+}
+
+body { 
+    text-align: center;
+    font-family: Arial, sans-serif;
+    /* background-color: purple; */
+}
+
+header {
+    text-align: center;
+    height: 30vh;
+}
+/* header {
+    background-color: yellow, rgb(233, 175, 30), greenyellow, green;
+    height: 30vh;
+} */
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    /* background-color: blue;
+    color: rgb(206, 23, 23); */
+    border: none;
+    cursor: pointer;
+}
+
+/* #color-history {
+    margin-top: 20px;
+}
+
+.color-box {
+ 
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+} */
